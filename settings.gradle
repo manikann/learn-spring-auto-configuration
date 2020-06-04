@@ -1,0 +1,3 @@
+include 'hello-app'
+include 'hello-service'
+include 'hello-starter'
